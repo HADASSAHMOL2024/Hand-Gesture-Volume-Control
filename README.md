@@ -8,6 +8,8 @@ This project uses **MediaPipe Hand Landmarker** for real-time hand tracking and 
 
 A computer vision project that turns your webcam into a touch-free volume controller.
 
+![Hand Gesture Volume Control Demo](handgesture1.png)
+
 ### Gesture Controls
 
 | Gesture | Action |
